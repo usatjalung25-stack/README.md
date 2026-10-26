@@ -4,7 +4,7 @@
 
 **Mahasiswa Informatika | Programmer | Tech Enthusiast**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=Mahasiswa+Informatika;Belajar+Pemrograman+dan+Teknologi;Web+%7C+Mobile+%7C+Database+%7C+Network+%7C+AI;Future+Software+Engineer" alt="Typing SVG" />
+
 
 [![GitHub](https://img.shields.io/badge/GitHub-usatjalung25--stack-181717?style=flat&logo=github&logoColor=white)](https://github.com/usatjalung25-stack)
 [![Instagram](https://img.shields.io/badge/Instagram-usat__jalung-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/usat_jalung/)

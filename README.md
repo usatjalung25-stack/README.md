@@ -18,7 +18,7 @@
 
 ## Daftar Isi
 
-[Tentang Saya](#tentang-saya) | [Bidang Studi](#bidang-studi-informatika) | [Tech Stack](#tech-stack) | [Konsep Dasar](#konsep-dasar-informatika) | [Roadmap](#roadmap-belajar) | [Statistik](#statistik-github) | [Kontak](#kontak)
+[Tentang Saya](#tentang-saya) | [Bidang Studi](#bidang-studi-informatika) | [Tech Stack](#tech-stack) | [Konsep Dasar](#konsep-dasar-informatika) | [Roadmap](#roadmap-belajar) | [Kontak](#kontak)
 
 ---
 

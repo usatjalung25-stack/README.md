@@ -1,94 +1,151 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Usat Jalung" />
+# Usat Jalung
 
-<br/>
+**Mahasiswa Informatika | Programmer | Tech Enthusiast**
 
-<img src="https://komarev.com/ghpvc/?username=usatjalung25-stack&label=VIEWS&style=for-the-badge&color=7c4dff" alt="views" />
-<a href="https://github.com/usatjalung25-stack?tab=followers"><img src="https://img.shields.io/github/followers/usatjalung25-stack?style=for-the-badge&logo=github&color=00e676&labelColor=161b22" alt="followers" /></a>
-<a href="https://github.com/usatjalung25-stack?tab=repositories"><img src="https://img.shields.io/github/stars/usatjalung25-stack?style=for-the-badge&logo=github&color=ffb300&labelColor=161b22" alt="stars" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=Mahasiswa+Informatika;Belajar+Pemrograman+dan+Teknologi;Web+%7C+Mobile+%7C+Database+%7C+Network+%7C+AI;Future+Software+Engineer" alt="Typing SVG" />
 
-<br/><br/>
+[![GitHub](https://img.shields.io/badge/GitHub-usatjalung25--stack-181717?style=flat&logo=github&logoColor=white)](https://github.com/usatjalung25-stack)
+[![Instagram](https://img.shields.io/badge/Instagram-usat__jalung-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/usat_jalung/)
+[![Followers](https://img.shields.io/github/followers/usatjalung25-stack?style=flat&logo=github&color=2F81F7)](https://github.com/usatjalung25-stack?tab=followers)
+[![Stars](https://img.shields.io/github/stars/usatjalung25-stack?style=flat&logo=github&color=fefb7b)](https://github.com/usatjalung25-stack?tab=stars)
+![Views](https://komarev.com/ghpvc/?username=usatjalung25-stack&style=flat&color=2F81F7)
 
-<img src="./assets/t-player.svg" width="100%" alt="" />
-<img src="./assets/player-card.svg" width="100%" alt="" />
+</div>
 
-<br/>
+---
 
-<img src="./assets/t-skills.svg" width="100%" alt="" />
-<img src="./assets/skills.svg" width="100%" alt="" />
+## Daftar Isi
 
-<br/>
+[Tentang Saya](#tentang-saya) | [Bidang Studi](#bidang-studi-informatika) | [Tech Stack](#tech-stack) | [Konsep Dasar](#konsep-dasar-informatika) | [Roadmap](#roadmap-belajar) | [Statistik](#statistik-github) | [Kontak](#kontak)
 
-<img src="./assets/t-inventory.svg" width="100%" alt="" />
+---
 
-<img src="./assets/l-prog.svg" width="100%" alt="" />
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,php,kotlin,dart,bash,go,rust&perline=12" alt="" />
+## Tentang Saya
 
-<img src="./assets/l-web.svg" width="100%" alt="" />
-<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,react,vue,angular,nodejs,express,laravel,django,flask,nextjs&perline=14" alt="" />
+```python
+class Mahasiswa:
+    nama    = "Usat Jalung"
+    nim     = "255410017"
+    kelas   = "Informatika 1"
+    prodi   = "Informatika"
+    github  = "usatjalung25-stack"
+    status  = "Learning & Building"
 
-<img src="./assets/l-mobile.svg" width="100%" alt="" />
-<img src="https://skillicons.dev/icons?i=flutter,androidstudio,unity,godot,arduino,raspberrypi&perline=12" alt="" />
+    def motto(self):
+        return "Code, Learn, Repeat."
+```
 
-<img src="./assets/l-db.svg" width="100%" alt="" />
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,firebase,supabase&perline=12" alt="" />
+| Data | Keterangan |
+|:---|:---|
+| Nama | Usat Jalung |
+| NIM | 255410017 |
+| Kelas | Informatika 1 |
+| Program Studi | Informatika |
+| GitHub | [usatjalung25-stack](https://github.com/usatjalung25-stack) |
+| Instagram | [@usat_jalung](https://www.instagram.com/usat_jalung/) |
 
-<img src="./assets/l-devops.svg" width="100%" alt="" />
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,linux,ubuntu,nginx,aws,gcp,azure,githubactions&perline=12" alt="" />
+---
 
-<img src="./assets/l-ai.svg" width="100%" alt="" />
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy,jupyter,opencv&perline=12" alt="" />
+## Bidang Studi Informatika
 
-<img src="./assets/l-sec.svg" width="100%" alt="" />
-<img src="https://skillicons.dev/icons?i=kali,wireshark,metasploit,cisco,burpsuite&perline=12" alt="" />
+| Pemrograman | Sistem dan Jaringan | Data dan Kecerdasan | Pengembangan |
+|:---|:---|:---|:---|
+| Algoritma dan Pemrograman | Jaringan Komputer | Basis Data (SQL dan NoSQL) | Pengembangan Web |
+| Struktur Data | Sistem Operasi | Data Mining | Pengembangan Mobile |
+| Pemrograman Berorientasi Objek | Arsitektur dan Organisasi Komputer | Big Data | Rekayasa Perangkat Lunak |
+| Analisis dan Desain Algoritma | Keamanan Siber | Kecerdasan Buatan | UI/UX Design |
+| Logika Informatika | Cloud Computing | Machine Learning | Interaksi Manusia dan Komputer |
+| Matematika Diskrit | Internet of Things | Deep Learning | Pengujian Perangkat Lunak |
+| Teori Bahasa dan Automata | Sistem Terdistribusi | Computer Vision | Manajemen Proyek TI |
+| Kompilasi | Pemrograman Jaringan | Natural Language Processing | Game Development |
 
-<img src="./assets/l-tools.svg" width="100%" alt="" />
-<img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,postman,figma,ai,ps,notion,obsidian,discord&perline=12" alt="" />
+---
 
-<br/><br/>
+## Tech Stack
 
-<img src="./assets/t-quests.svg" width="100%" alt="" />
-<img src="./assets/quests.svg" width="100%" alt="" />
+### Bahasa Pemrograman
 
-<br/>
+| Kategori | Teknologi |
+|:---|:---|
+| General Purpose | <img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,go,rust,kotlin,swift,dart" height="36" alt="General Purpose" /> |
+| Scripting | <img src="https://skillicons.dev/icons?i=js,ts,php,ruby,bash,powershell,lua,perl" height="36" alt="Scripting" /> |
+| Data dan Ilmiah | <img src="https://skillicons.dev/icons?i=r,matlab,python" height="36" alt="Data dan Ilmiah" /> |
 
-<img src="./assets/t-achv.svg" width="100%" alt="" />
-<img src="https://github-profile-trophy.vercel.app/?username=usatjalung25-stack&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="" />
+### Web Development
 
-<br/><br/>
+| Kategori | Teknologi |
+|:---|:---|
+| Frontend Dasar | <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,jquery" height="36" alt="Frontend Dasar" /> |
+| Frontend Framework | <img src="https://skillicons.dev/icons?i=react,vue,angular,svelte,nextjs,nuxtjs,bootstrap,tailwind,vite" height="36" alt="Frontend Framework" /> |
+| Backend Framework | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,django,flask,fastapi,spring,dotnet" height="36" alt="Backend Framework" /> |
+| API | <img src="https://skillicons.dev/icons?i=graphql,postman" height="36" alt="API" /> |
 
-<img src="./assets/t-stats.svg" width="100%" alt="" />
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=usatjalung25-stack&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight" alt="" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usatjalung25-stack&layout=compact&hide_border=true&theme=tokyonight" alt="" />
+### Mobile, Database, dan Data
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=usatjalung25-stack&theme=tokyonight&hide_border=true" alt="" />
+| Kategori | Teknologi |
+|:---|:---|
+| Mobile | <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio,xcode,firebase" height="36" alt="Mobile" /> |
+| Database | <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,oracle,supabase,firebase" height="36" alt="Database" /> |
+| AI dan Data Science | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy,opencv,jupyter" height="36" alt="AI dan Data Science" /> |
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=usatjalung25-stack&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="" />
+### DevOps, Cloud, dan Server
 
-<br/><br/>
+| Kategori | Teknologi |
+|:---|:---|
+| Version Control | <img src="https://skillicons.dev/icons?i=git,github,gitlab" height="36" alt="Version Control" /> |
+| Container dan CI/CD | <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,terraform" height="36" alt="Container dan CI/CD" /> |
+| Cloud | <img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify" height="36" alt="Cloud" /> |
+| Web Server | <img src="https://skillicons.dev/icons?i=nginx,apache" height="36" alt="Web Server" /> |
 
-<img src="./assets/t-snake.svg" width="100%" alt="" />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/usatjalung25-stack/usatjalung25-stack/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/usatjalung25-stack/usatjalung25-stack/output/github-snake.svg" />
-  <img alt="" src="https://raw.githubusercontent.com/usatjalung25-stack/usatjalung25-stack/output/github-snake.svg" />
-</picture>
+### Tools, OS, dan Hardware
 
-<br/><br/>
+| Kategori | Teknologi |
+|:---|:---|
+| Code Editor / IDE | <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,webstorm,vim,androidstudio" height="36" alt="IDE" /> |
+| Sistem Operasi | <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,arch,kali,windows,apple" height="36" alt="Sistem Operasi" /> |
+| Desain dan Produktivitas | <img src="https://skillicons.dev/icons?i=figma,ps,ai,notion,discord" height="36" alt="Desain" /> |
+| Build Tools | <img src="https://skillicons.dev/icons?i=npm,yarn,maven,gradle,cmake" height="36" alt="Build Tools" /> |
+| Hardware dan IoT | <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" height="36" alt="Hardware dan IoT" /> |
 
-<img src="./assets/t-games.svg" width="100%" alt="" />
-<img src="./assets/quiz1.svg" width="100%" alt="" />
-<br/>
-<img src="./assets/quiz2.svg" width="100%" alt="" />
-<br/>
-<img src="./assets/quiz3.svg" width="100%" alt="" />
+---
 
-<br/><br/>
+## Konsep Dasar Informatika
 
-<img src="./assets/t-connect.svg" width="100%" alt="" />
-<a href="https://github.com/usatjalung25-stack"><img src="./assets/connect.svg" width="100%" alt="" /></a>
+| Area | Topik |
+|:---|:---|
+| Algoritma | Sorting, Searching, Recursion, Dynamic Programming, Greedy, Divide and Conquer, Big O Notation |
+| Struktur Data | Array, Linked List, Stack, Queue, Tree, Graph, Hash Table, Heap |
+| Paradigma Pemrograman | Procedural, Object Oriented, Functional, Event Driven |
+| OOP | Encapsulation, Inheritance, Polymorphism, Abstraction |
+| Basis Data | ERD, Normalisasi, Query SQL, Transaction, Indexing |
+| Jaringan | Model OSI dan TCP/IP, IP Address dan Subnetting, DNS, HTTP/HTTPS, Routing |
+| Sistem Operasi | Process, Thread, Memory Management, File System, Scheduling |
+| Keamanan | Kriptografi, Autentikasi, Firewall, Penetration Testing, OWASP Top 10 |
+| Rekayasa Perangkat Lunak | SDLC, Agile, Scrum, UML, Design Pattern, Clean Code, Testing |
 
-<img src="./assets/footer.svg" width="100%" alt="" />
+---
+
+## Roadmap Belajar
+
+| Tahap | Fokus |
+|:---|:---|
+| Semester 1 | Algoritma, Logika Informatika, Pengantar Pemrograman (Python dan C) |
+| Semester 2 | Struktur Data, OOP, Basis Data, Dasar Web (HTML, CSS, JavaScript) |
+| Semester 3 | Jaringan Komputer, Sistem Operasi, Pemrograman Web Lanjut |
+
+</div>
+
+---
+
+## Kontak
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usatjalung25-stack)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/usat_jalung/)
+
+<div align="center">
+
+*"Talk is cheap. Show me the code."* - Linus Torvalds
 
 </div>
